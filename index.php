@@ -6,7 +6,7 @@ Unirest\Request::verifyPeer(false);
 $response = Unirest\Request::get("https://api-football-v1.p.rapidapi.com/v2/fixtures/live?timezone=Europe%2FLondon",
   array(
     "X-RapidAPI-Host" => "api-football-v1.p.rapidapi.com",
-    "X-RapidAPI-Key" => "b416485ec8mshfd71789b346e56cp132b51jsn478ccb84d722"
+    "X-RapidAPI-Key" => "xxxx"
   )
 );
 
